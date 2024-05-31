@@ -3,7 +3,7 @@
 # Blood Group Analysis Report
 
 ## Description
-This project provides a comprehensive analysis of blood group distributions, donor types, and gender demographics. The analysis was performed using SPSS (Statistical Package for the Social Sciences) and the results are visualized using Excel. This report aims to give insights into the blood group composition and donor demographics within the studied population.
+This project provides a comprehensive analysis of blood group distributions, donor types, and gender demographics. The analysis was performed using SPSS (Statistical Package for the Social Sciences). This report aims to give insights into the blood group composition and donor demographics within the studied population.
 
 ### Features of the Blood Group Analysis Report
 
